@@ -22,7 +22,7 @@ I live in **Hyderabad**, which is the capital of **Telangana**.
 4.  Use the middle 2 lanes to stay on I-635 s and keep right to stay on I-635 s
 5.  Continue onto US-69 s and turn right onto W 80th st and then turn left onto Overland Park Dr.
 6.  Turn left and you have reached your destination.
-*    items to be bought to Overland Park   
+*   Items to be bought to Overland Park   
     *  Uno
     *  Basket ball
     *  cards
