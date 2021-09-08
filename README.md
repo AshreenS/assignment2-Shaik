@@ -29,7 +29,7 @@ I live in **Hyderabad**, which is the capital of **Telangana**.
     *  Sequence game
     *  Business game
 
-
+**[Get to know about me here](AboutMe.md)**
 
 
 
