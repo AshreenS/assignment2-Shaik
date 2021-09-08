@@ -32,6 +32,27 @@ I live in **Hyderabad**, which is the capital of **Telangana**.
 **[Get to know about me here](AboutMe.md)**
 
 
+***
+Below is the list of **Drinks and Foods** people must try atleast once in their lifetime.
+Also, the table contains information about where we can find them and the cost of the food.
+
+| Food   | Location   | Amount |
+| ----    ---------     ------ |
+| Dum Chicken Biriyani|India, Hyderabad|500Rupees| 
+| Jilebi | India, Hyderabad | 50Rupees |
+| Chicago deep dish pizza | Giordano's, Chicago | 30$ |
+|  churros |  Chicago downtown |  10$  |
+| kerala parotta | Kerala, India | 100Rupees |
+
+
+
+
+
+
+
+
+
+
 
 
 
