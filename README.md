@@ -173,7 +173,7 @@ pair<int, int> solve(const vector<seg>& a) {
 
 ```
 
-Search for a pair of intersecting segments*- source code <https://cp-algorithms.com/geometry/intersecting_segments.html>
+*Search for a pair of intersecting segments*- source code <https://cp-algorithms.com/geometry/intersecting_segments.html>
 
 
 
