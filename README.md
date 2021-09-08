@@ -38,13 +38,20 @@ Also, the table contains information about where we can find them and the cost o
 
 | Food   | Location   | Amount |
 | ----   | ---------  | ------ |
-| Dum Chicken Biriyani|India, Hyderabad|500Rupees| 
-| Jilebi | India, Hyderabad | 50Rupees |
+| Dum Chicken Biriyani| Hyderabad, India|500Rupees| 
+| Jilebi | Hyderabad, India | 50Rupees |
 | Chicago deep dish pizza | Giordano's, Chicago | 30$ |
 |  churros |  Chicago downtown |  10$  |
 | kerala parotta | Kerala, India | 100Rupees |
 
 
+***
+
+>"How often have you wounde yourself by getting angry, fearful, jealous or vengeful?" - Joseph Murphy
+
+>" Always be a little kinder than necessary." - James Barry
+
+>"People who use time wiselyspend it on activities that advance their overall perpose in life." - John C.Maxwell
 
 
 
