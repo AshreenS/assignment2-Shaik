@@ -67,7 +67,7 @@ Also, the table contains information about where we can find them and the cost o
 The naive solution algorithm is to search for O (n ^ 2)all pairs of segments and check for each pair whether they intersect or not. This article describes an algorithm with a runtime O (n\log n)that is based on the scanning principle (sweeping) direct (in English: "sweep line").
 
 
-*pair of intersecting segments* description: <https://www.titanwolf.org/Network/Articles/Article?AID=8fa5a695-6dbb-4b9f-8577-64ac9163d9f1#gsc.tab=0>
+*Search for a pair of intersecting segments* description: <https://www.titanwolf.org/Network/Articles/Article?AID=8fa5a695-6dbb-4b9f-8577-64ac9163d9f1#gsc.tab=0>
 
 ```
 
