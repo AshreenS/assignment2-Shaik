@@ -37,7 +37,7 @@ Below is the list of **Drinks and Foods** people must try atleast once in their 
 Also, the table contains information about where we can find them and the cost of the food.
 
 | Food   | Location   | Amount |
-| ----    ---------     ------ |
+| ----   | ---------  | ------ |
 | Dum Chicken Biriyani|India, Hyderabad|500Rupees| 
 | Jilebi | India, Hyderabad | 50Rupees |
 | Chicago deep dish pizza | Giordano's, Chicago | 30$ |
